@@ -13,7 +13,7 @@ in the nearby comment.
 x = 5
 y = 9
 answer =  # using only x and y variables above, make "answer" equal 40
-print (answer)
+print ("Answer equals: " + str(answer))
 
 # Classes
 #   One of the most useful paradigms in programming is the 'object oriented' paradigm.
